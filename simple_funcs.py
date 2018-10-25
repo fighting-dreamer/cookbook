@@ -5,7 +5,7 @@ def subtract(x, y) :
 	return x - y
 
 def multiply():
-	pass
+	return x * y
 
 def divide(x, y):
 	pass
